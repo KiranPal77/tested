@@ -1,0 +1,102 @@
+@media only screen and (max-width: 600px) {
+
+    .nav{
+        display: none;
+    }
+
+
+    .sec{
+        display: none;
+    }
+
+
+    .mmm1{
+        display: none;
+    }
+
+    .mmm1{
+        width: 350px;
+        height: 130px;
+        display: 15px;
+        margin-left: -200px;
+        font-size: 10px;
+        display: block;
+    }
+
+    .cont555{
+        display: none;
+    }
+
+    .cont555{
+        position: absolute;
+        margin-top: 150px;
+        display: block;
+    }
+
+
+    footer{
+        display: none;
+
+    }
+    footer{
+        display: block;
+       
+    }
+    .form211{
+        display: none;
+    }
+
+    .form211{
+        margin-left: -400px;
+        display: block;
+    }
+
+
+    #names input{
+        width: 350px;
+        height: 22px;
+        display: block;
+        font-size: 10px;
+    }
+    #names{
+        margin-top: 800px;
+        display: block;
+    }
+
+    #names a{
+        display: none;
+    }
+
+    form br{
+        display: none;
+    }
+
+   form span{
+        display: none;
+    }
+
+   form span{
+        font-size: 15px;
+        display: block;
+    }
+
+
+    .last{
+        display: none;
+    }
+
+    .last{
+        display: block;
+        height: 150px;
+    }
+
+    .cc h4{
+        display: none;
+    }
+
+    .cc h4{
+        display: block;
+        color: green;
+    }
+
+}
